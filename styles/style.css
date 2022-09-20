@@ -300,16 +300,19 @@
 }
 
 .footer {
-  display: flex;
   background-color: #1f1f1f;
   margin: 0 auto;
-  padding-top: 60px;
-  padding-bottom: 40px;
-  min-height: 350px;
   padding-left: 5%;
   padding-right: 5%;
+}
+
+.footer__columns {
+  display: flex;
   justify-content: space-between;
   box-sizing: border-box;
+  min-height: 350px;
+  padding-top: 60px;
+  padding-bottom: 40px;
 }
 
 .footer__column {
