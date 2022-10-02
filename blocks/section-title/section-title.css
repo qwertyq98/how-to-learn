@@ -1,0 +1,10 @@
+.section-title {
+  max-width: 60%;
+  margin: 0 auto;
+  font-size: 60px;
+  line-height: 1.15;
+  font-weight: 600;
+  padding: 0;
+  color: black;
+  position: relative;
+}

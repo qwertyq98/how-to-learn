@@ -1,0 +1,8 @@
+.footer__columns {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  min-height: 350px;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
