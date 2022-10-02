@@ -1,5 +1,6 @@
 .video__iframe {
   margin-right: 20px;
+  border: none;
 }
 
 .video__iframe:nth-of-type(2n) {
