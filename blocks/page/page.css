@@ -9,10 +9,3 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-a {
-  transition: opacity .2s linear;
-}
-
-a:hover {
-  opacity: .5;
-}

@@ -1,4 +1,5 @@
 @import url(../vendor/normalize.css);
+@import url(../blocks/link/link.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
@@ -28,7 +29,7 @@
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
-@import url(../blocks/table/__theme/table__theme_dark.css);
+@import url(../blocks/table/__theme/table_theme_dark.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
@@ -58,14 +59,15 @@
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__author/khan__author.css);
-@import url(../blocks/khan/__book/khan__book-container.css);
-@import url(../blocks/khan/__book/khan__book-pic.css);
-@import url(../blocks/khan/__buy/khan__buy-link.css);
+@import url(../blocks/khan/__book-container/khan__book-container.css);
+@import url(../blocks/khan/__book-pic/khan__book-pic.css);
+@import url(../blocks/khan/__buy-link/khan__buy-link.css);
 @import url(../blocks/khan/__container/khan__container.css);
-@import url(../blocks/khan/__quote/__quote-author-subline/khan__quote-author-subline.css);
-@import url(../blocks/khan/__quote/__quote-author/khan__quote-author.css);
+@import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
+@import url(../blocks/khan/__quote-author/khan__quote-author.css);
 @import url(../blocks/khan/__quote/khan__quote.css);
 @import url(../blocks/khan/__title/khan__title.css);
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/__logo/resources__logo.css);

@@ -4,6 +4,7 @@
   padding-top: 60px;
   overflow: hidden;
   max-width: 240px;
+  object-fit: cover;
 }
 
 .cards__item:nth-of-type(3n) {
