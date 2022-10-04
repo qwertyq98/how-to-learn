@@ -1,7 +1,0 @@
-a {
-  transition: opacity .2s linear;
-}
-
-a:hover {
-  opacity: .5;
-}
